@@ -1,5 +1,5 @@
  {Application Name}
-#### {Brief description of application}, 22022022 v1.0.0
+#### 22-02-2022 v1.0.0
 #### By **Michelle Njeri**
 ## Description
 This is a resort company, Lavista, requested by the owner. It shows the resort accomdations, activities to do there, and booking. 
