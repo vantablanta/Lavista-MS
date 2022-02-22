@@ -1,4 +1,4 @@
- {Application Name}
+ Lavista Resort
 #### 22-02-2022 v1.0.0
 #### By **Michelle Njeri**
 ## Description
