@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Poppins',sans-serif;
 }
 header{
   float: right;
@@ -14,7 +15,7 @@ nav>a{
   font-size: 16px;
 }
 nav>a:hover{
-  color: black;
+  color: #212a2b;
   font-size: 18px;
 }
 section{
@@ -22,6 +23,8 @@ section{
 }
 h3{
   text-align: center;
+  font-size: 25px;
+  font-weight: 300;
 }
 .contact-container{
   padding-top: 30px;
@@ -31,13 +34,21 @@ h3{
 }
 .contact-box>h4{
   margin: 25px;
+  font-weight: 300;
+  font-size: 25px;
 }
 .contact-box>p{
   margin: 30px;
+  font-weight: 200;
+  font-size: 15px;
+}
+strong{
+  font-weight: 400;
 }
 label{
   display: inline-block;
   padding: 12px;
+  font-weight: 200;
 }
 input, textarea{
   width: 100%;
