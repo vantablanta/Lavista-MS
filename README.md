@@ -7,7 +7,7 @@ Lavista Resort
 **Yvonne Charawe.**
 #### Description
 This is a resort company, Lavista, requested by the owner. It shows the resort accomdations, activities to do there, and booking. 
-#### Setup/Installation Requirements
+#### Setup Requirements
 * Fork the Repo and run file in your preffered editor. Any Browser is capable or rendering the Index.html file
 
 #### Known Bugs
