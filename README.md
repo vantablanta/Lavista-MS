@@ -1,10 +1,10 @@
 Lavista Resort
 #### 22-02-2022 v1.1.0
 #### By 
-**Michelle Njeri**
-**Ann Omao**
-**Hope Pete**
-**Yvonne Charawe**
+**Michelle Njeri.**
+**Ann Omao.**
+**Hope Pete.**
+**Yvonne Charawe.**
 #### Description
 This is a resort company, Lavista, requested by the owner. It shows the resort accomdations, activities to do there, and booking. 
 #### Setup/Installation Requirements
