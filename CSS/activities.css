@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@100&display=swap');
+*{
+    padding: 0;
+}
+
+#btn{
+    background-color: turquoise;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    border: 0;
+    float: right;
+    margin-top: -100px;
+}
+#img{
+    margin-top: -25px;
+    margin-left: 15px;
+}
+
+h2{
+    text-align: center;
+    color: turquoise;
+    font-size: 3.5em;
+    font-family: "Lobster";
+}
+
+#act{
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+h3,#intro{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+
+.night{
+    width: 90%;
+    height: 500px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 65px;
+    margin-top: 50px;
+}
+
+.night h4{
+   font-weight: bolder;
+   text-align: center;
+   padding-top: 10px;
+   font-size: 1.5em;
+} 
+
+.night p{
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+.paddle{
+    width: 90%;
+    height: 500px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 65px;
+    margin-top: 50px;
+}
+
+.paddle h4{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.5em;
+ } 
+ 
+ .paddle p{
+     text-align: center;
+     padding-top: 5px;
+}
+
+
+
+.msg{
+    width: 90%;
+    height: 500px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 65px;
+    margin-top: 50px;
+}
+.msg h4{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.5em;
+ } 
+ 
+ .msg p{
+     text-align: center;
+     padding-top: 5px;
+}
+
+
+
+.river{
+    width: 90%;
+    height: 500px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 65px;
+    margin-top: 50px;
+
+}
+
+.river h4 {
+    text-align: center;
+    padding-top: 3px;
+    font-size: 2em;
+}
+
+.river p{
+    text-align: center;
+}
+
+
+
+.concert{
+    width: 90%;
+    height: 500px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 65px;
+    margin-top: 50px;
+
+}
+
+.concert h4 {
+    text-align: center;
+    padding-top: 3px;
+    font-size: 2em;
+}
+
+.concert p{
+    text-align: center;
+}
+
+
+
+footer{
+    background: turquoise;
+    margin-top: 40px;
+    min-height: 10vh;
+}
+
+footer h5{
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 15px;
+  
+}
+
+form{
+    margin-top: -20px;
+}
+
+input{
+    width: 25%;
+    height: 23px;
+    margin-left: 10px;
+}
+
+ #submit{
+     background-color: white;
+     padding: 5px 15px;
+     font-weight: bold;
+ }
+
+footer p{
+    font-weight: bolder;
+    text-align: end;
+    padding-right: 5px;
+    color: white;
+    font-family: "Lobster";
+}
