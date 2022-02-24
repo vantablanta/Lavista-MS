@@ -1,27 +1,45 @@
-
-.main-title{
-    text-align: center;
-    font-family: 'Dancing Script';
-    font-size: 40px;
-    position: relative;
-    top: 50px;
-    left: 200px;
+*{
+    box-sizing: border-box;
 }
 
-
-
-
+h2{
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: 30px;
+    margin-bottom: 20px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
 header{
     float: right;
     margin: 15px;
     padding: 15px;
-  }
-  nav>a{
+}
+nav>a{
     margin-left: 15px;
     text-decoration: none;
     color: #020202;
     font-size: 16px;
-  }
-  a:hover{
+}
+a:hover{
     color: #1cbfd1;
-  }
+}
+.img-container{   
+    top: 100px;
+    position: relative;
+    justify-content: center;
+}
+.img-container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.img-item{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+img{
+    width: 100%;
+}
